@@ -4,12 +4,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Daniel Leech",
-            "email": "daniel@dantleech.com"
+            "name": "Johnel Woods",
+            "email": "jrwoods17@gmail.com"
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^7.1",
         "ext-dom": "*",
         "ext-json": "*",
         "ext-pcre": "*",
